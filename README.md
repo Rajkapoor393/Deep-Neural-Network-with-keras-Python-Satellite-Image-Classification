@@ -1,4 +1,6 @@
 ## Deep Neural Network with keras-Python: Satellite-Image Classification
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) 
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 
 This tutorial  will show how to implement [Deep Neural Network](https://en.wikipedia.org/wiki/Deep_learning) for [pixel based](https://gis.stackexchange.com/questions/237461/distinction-between-pixel-based-and-object-based-classification) [supervised classification ](https://articles.extension.org/pages/40214/whats-the-difference-between-a-supervised-and-unsupervised-image-classification) of [Sentinel-2 multispectral images](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) using [keras](https://keras.io/#installation/) package in [Anaconda 5.1 Python 3.6](https://www.anaconda.com/download/#download/) under [Windows 10](https://www.microsoft.com/en-us/software-download/windows10).
 
