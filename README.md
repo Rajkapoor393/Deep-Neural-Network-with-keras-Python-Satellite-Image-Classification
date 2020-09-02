@@ -16,3 +16,9 @@ This tutorial  will show how to implement [Deep Neural Network](https://en.wikip
 Detail installation steps of Keras backend Tensorflow can be found [here](https://keras.io/#installation).
 
 First, we will split "point_data" into a training set (75% of the data), a validation set (12%) and a test set (13%) data.The validation data set will be used to optimize the model parameters during training process.The model's performance will be tested with the data set and then we will predict landuse clasess on grid data set. 
+
+<div align="center">
+
+### Show some ❤️ by starring this repository!
+
+</div>
